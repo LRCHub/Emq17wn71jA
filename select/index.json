@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Pookie",
+  "base_artist": "FIFTY FIFTY",
+  "createdAt": "2025-12-17T14:14:14.827878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pookie",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/01_Pookie_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Owe Like Pookie",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/02_You_Owe_Like_Pookie_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pookie Baby",
+      "artist": "Prof",
+      "has_synced": false,
+      "path": "select/03_Pookie_Baby_Prof.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Owe Like Pookie (feat. Jay Rock & Kutt Calhoun)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/04_You_Owe_Like_Pookie_(feat._Jay_Rock_&_Kutt_Calhoun)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Owe Like Pookie",
+      "artist": "Tech N9ne feat. Jay Rock & Kutt Calhoun",
+      "has_synced": true,
+      "path": "select/05_You_Owe_Like_Pookie_Tech_N9ne_feat._Jay_Rock_&_Kutt_Calhoun.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pookie",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/06_Pookie_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pookie (feat. Capo Plaza) - Remix",
+      "artist": "Aya Nakamura feat. Capo Plaza",
+      "has_synced": true,
+      "path": "select/07_Pookie_(feat._Capo_Plaza)_-_Remix_Aya_Nakamura_feat._Capo_Plaza.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pookie (Remix)",
+      "artist": "Aya Nakamura feat. Capo Plaza",
+      "has_synced": true,
+      "path": "select/08_Pookie_(Remix)_Aya_Nakamura_feat._Capo_Plaza.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pookie",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/09_Pookie_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love (reprise feat. Pookie & 2TanClan)",
+      "artist": "Blitzen Trapper",
+      "has_synced": false,
+      "path": "select/10_Love_(reprise_feat._Pookie_&_2TanClan)_Blitzen_Trapper.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love (reprise featuring Pookie & 2TanClan)",
+      "artist": "Blitzen Trapper",
+      "has_synced": false,
+      "path": "select/11_Love_(reprise_featuring_Pookie_&_2TanClan)_Blitzen_Trapper.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pookie (Remix) (feat. Capo Plaza)",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/12_Pookie_(Remix)_(feat._Capo_Plaza)_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pookie (feat. Lil Pump) - Remix",
+      "artist": "Aya Nakamura feat. Lil Pump",
+      "has_synced": true,
+      "path": "select/13_Pookie_(feat._Lil_Pump)_-_Remix_Aya_Nakamura_feat._Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pookie (Remix) (feat. Lil Pump)",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/14_Pookie_(Remix)_(feat._Lil_Pump)_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pookie (feat. Lil Pump) - Remix",
+      "artist": "Aya Nakamura/Lil Pump",
+      "has_synced": true,
+      "path": "select/15_Pookie_(feat._Lil_Pump)_-_Remix_Aya_Nakamura_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Owe Like Pookie",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/16_You_Owe_Like_Pookie_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pookie (feat. Capo Plaza) (Remix)",
+      "artist": "Aya Nakamura",
+      "has_synced": true,
+      "path": "select/17_Pookie_(feat._Capo_Plaza)_(Remix)_Aya_Nakamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pookie",
+      "artist": "FIFTY FIFTY",
+      "has_synced": false,
+      "path": "select/pl_01_Pookie_FIFTY_FIFTY.txt"
+    }
+  ]
+}
